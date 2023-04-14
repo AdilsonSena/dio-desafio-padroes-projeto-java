@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-padroes-projeto-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sejaa/Desktop/dio-desafio-padroes-projeto-java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sejaa/Desktop/dio-desafio-padroes-projeto-java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="one.digitalinnovation.gof" />
@@ -125,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681407475699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder.">
+      <created>1681449401146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681449401146</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
