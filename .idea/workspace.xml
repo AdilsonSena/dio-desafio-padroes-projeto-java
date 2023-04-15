@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Implementando Strategy, criando e testando o Robo.">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Implementando Padrão estrutural Facade, criando e testando CepApi, CrmService." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681530063853</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feat: Implementando Padrão estrutural Facade, criando e testando CepApi, CrmService.">
+      <created>1681537642551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681537642551</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +189,7 @@
     <MESSAGE value="Singleton &quot;preguiçoso" />
     <MESSAGE value="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder." />
     <MESSAGE value="Feat: Implementando Strategy, criando e testando o Robo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Implementando Strategy, criando e testando o Robo." />
+    <MESSAGE value="Feat: Implementando Padrão estrutural Facade, criando e testando CepApi, CrmService." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Implementando Padrão estrutural Facade, criando e testando CepApi, CrmService." />
   </component>
 </project>
