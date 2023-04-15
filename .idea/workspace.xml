@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder." />
+    <list default="true" id="97e64b0c-ca03-4066-82cf-d92c3c303c1d" name="Changes" comment="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Robo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonEager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -20,11 +33,24 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a936c1c3-03ba-4195-88fa-8151ebbbb728" />
+        <option name="url" value="https://github.com/AdilsonSena/dio-desafio-padroes-projeto-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,15 +63,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sejaa/Desktop/dio-desafio-padroes-projeto-java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sejaa/Desktop/dio-desafio-padroes-projeto-java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="one.digitalinnovation.gof.strategy" />
       <recent name="one.digitalinnovation.gof" />
     </key>
   </component>
@@ -55,7 +83,7 @@
       <module name="desafio-padroes-projeto-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.gof.*" />
+          <option name="PATTERN" value="one.digitalinnovation.gof.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681449645626</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feat: Testando SingletonLazy, SingletonEager, SingletonLazyHolder.">
+      <created>1681450856879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681450856879</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
